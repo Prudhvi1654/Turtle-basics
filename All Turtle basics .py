@@ -59,7 +59,7 @@ pen.pendown()
 
 # Writing Text
 pen.color("black")
-pen.write("Thanks for watching my Turtle !!", font=("Times new roman", 5, "italic"))
+pen.write("Thanks for watching my Turtle !!", font=("Times new roman", 14, "italic"))
 
 # Hide Turtle & Keep Window Open
 pen.hideturtle()
